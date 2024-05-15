@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    margin: 0px 0px 100px 450px;
+}
+h2{
+  
+    color: greenyellow;
+    margin: 0px 0px 100px 560px;
+
+}
+
+button{
+    text-align: center;
+    color: red;
+    margin: 0px 0px 200px 600px;
+}
+strong{
+    display: inline-block;
+    margin-left: 10px;
+    color: wheat;
+    font-size: 2rem;
+}

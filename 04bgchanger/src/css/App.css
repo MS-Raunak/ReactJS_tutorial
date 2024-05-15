@@ -1,0 +1,41 @@
+.main-box{
+    width: 100%;
+    height: 95vh;
+    background-color: olive;
+    color: red;
+    
+}
+
+.btn-box{
+    text-align: center;
+    height: 20px;
+    position: relative;
+    top: 480px;
+}
+
+.btn{
+    width: 100px;
+    padding: 15px;
+    border-radius: 10%;
+    margin-left: 5px;
+    border: none;
+}
+.btn:hover{
+    box-shadow: 0 0 30px green;
+}
+.btnRed{
+    background: red;
+    color: white;
+}
+.btnBlack{
+    background: black;
+    color: white;
+}
+.btnBlue{
+    background: blue;
+    color: white;
+}
+.btnYellow{
+    background: yellow;
+    color: blue;
+}
